@@ -1,0 +1,2 @@
+npx create-next-app@latest mine-rush --typescript
+cd mine-rush
